@@ -1,2 +1,4 @@
 
 *.bak
+Vectorblade-backups/*.zip
+*.FCStd1
