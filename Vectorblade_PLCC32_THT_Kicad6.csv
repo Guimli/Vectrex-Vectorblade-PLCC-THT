@@ -1,7 +1,0 @@
-"Id";"Référence";"Empreinte";"Quantité";"Désignation";"Fournisseur et réf";
-1;",@HOLE1,,@HOLE0,@HOLE2,,";"";7;"";;;
-2;"U1";"PLCC-32_THT-Socket";1;"SST39SF020";;;
-3;"CON3";"EDGE-CONNECTOR";1;"EDGE-CONNECTOR";;;
-4;"U2";"SOT-23-5";1;"74AHC1G04";;;
-5;"U3";"SOT-23-5";1;"74AHC1G08";;;
-6;"C1";"C_1206_3216Metric";1;"100n";;;
