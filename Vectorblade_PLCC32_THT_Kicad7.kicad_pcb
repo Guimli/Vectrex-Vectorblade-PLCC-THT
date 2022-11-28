@@ -292,11 +292,11 @@
     (property "Sheetfile" "Vectorblade_PLCC32_THT.kicad_sch")
     (property "Sheetname" "")
     (path "/f284b1e2-75a4-4a3f-a5f4-6f05f15fb4f5")
-    (fp_text reference "CON3" (at 0 0 180) (layer "F.SilkS")
+    (fp_text reference "CON3" (at 0 0 180) (layer "F.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 5ffb9a59-ac39-407d-a679-385000d82622)
     )
-    (fp_text value "EDGE-CONNECTOR" (at 0 0 180) (layer "F.SilkS")
+    (fp_text value "EDGE-CONNECTOR" (at 0 0 180) (layer "F.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp ec7b6c3e-5f92-4016-aceb-24454f7f8a69)
     )
